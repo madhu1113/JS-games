@@ -1,0 +1,9 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;               /*  align text and canvas to the center of page */
+}
+
+#board {
+    /* background-color: skyblue; Access the canvas and set the background picture */
+    background-image: url("./flappybirdbg.png");
+}
